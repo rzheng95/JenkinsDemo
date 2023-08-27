@@ -8,6 +8,7 @@ public class JenkinsDemoApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(JenkinsDemoApplication.class, args);
+        System.out.println("Hello World! Richard");
     }
 
 }
